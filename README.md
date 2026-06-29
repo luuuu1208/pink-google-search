@@ -1,5 +1,3 @@
-# pink-google-search
-Meu primeiro projeto de pesquisa estilo Google
 # 🌸 Pink Google Search
 
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen?style=flat-square)
@@ -71,6 +69,9 @@ Rosa Suave:       #e96c93  /* Subtítulos */
 Rosa Escuro:      #8a055a  /* Labels */
 Rosa Destaque:    #ed8dcd  /* Hover dos botões */
 Rosa Fundo:       #f7d6ef  /* Background dos botões em hover */
+```
+
+---
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -81,7 +82,11 @@ Rosa Fundo:       #f7d6ef  /* Background dos botões em hover */
 | Flexbox | Alinhamento e distribuição de elementos |
 | GitHub Pages | Hospedagem gratuita do projeto |
 
-Estrutura do Projeto
+---
+
+## 📁 Estrutura do Projeto
+
+```
 pink-google-search/
 │
 ├── index.html          # Página principal (Pesquisa Google)
@@ -90,44 +95,63 @@ pink-google-search/
 ├── style.css           # Estilos personalizados (tema rosa)
 ├── logo.png            # Logo do projeto
 └── README.md           # Documentação
+```
 
-Acesse o Projeto
+---
+
+## 🚀 Acesse o Projeto
+
 O projeto está disponível publicamente em:
 
-https://luuuu1208.github.io/pink-google-search/
+[https://luuuu1208.github.io/pink-google-search/](https://luuuu1208.github.io/pink-google-search/)
 
-Requisitos Atendidos
-Requisito	                                    Status
-3 páginas (Pesquisa, Imagens, Avançada)	      ✅
-Links de navegação no canto superior direito	✅
-Pesquisa de texto funcional	                  ✅
-Pesquisa de imagens funcional	                ✅
-4 campos na pesquisa avançada	                ✅
-Campos alinhados verticalmente	              ✅
-Botão "I'm Feeling Lucky"	                    ✅
-Botão "Advanced Search" estilizado	          ✅
-Estética consistente	                        ✅
+---
 
-Detalhes Técnicos
-Pesquisa de Imagens
+## 📋 Requisitos Atendidos
+
+| Requisito | Status |
+|-----------|--------|
+| 3 páginas (Pesquisa, Imagens, Avançada) | ✅ |
+| Links de navegação no canto superior direito | ✅ |
+| Pesquisa de texto funcional | ✅ |
+| Pesquisa de imagens funcional | ✅ |
+| 4 campos na pesquisa avançada | ✅ |
+| Campos alinhados verticalmente | ✅ |
+| Botão "I'm Feeling Lucky" | ✅ |
+| Botão "Advanced Search" estilizado | ✅ |
+| Estética consistente | ✅ |
+
+---
+
+## 🔍 Detalhes Técnicos
+
+### Pesquisa de Imagens
+```html
 <input type="hidden" name="tbm" value="isch">
-O parâmetro tbm=isch é enviado ao Google para ativar a pesquisa de imagens.
+```
+O parâmetro `tbm=isch` é enviado ao Google para ativar a pesquisa de imagens.
 
-Pesquisa Avançada
+### Pesquisa Avançada
 Os 4 campos utilizam os parâmetros corretos do Google:
 
-as_q - Todas essas palavras
-as_epq - Frase exata
-as_oq - Qualquer uma dessas palavras
-as_eq - Nenhuma dessas palavras
+- `as_q` - Todas essas palavras
+- `as_epq` - Frase exata
+- `as_oq` - Qualquer uma dessas palavras
+- `as_eq` - Nenhuma dessas palavras
 
-I'm Feeling Lucky
+### I'm Feeling Lucky
+```html
 <input type="submit" name="btnI" value="I'm Feeling Lucky">
-O parâmetro btnI=1 faz o Google redirecionar diretamente ao primeiro resultado.
+```
+O parâmetro `btnI=1` faz o Google redirecionar diretamente ao primeiro resultado.
 
-Aprendizados
-- Durante o desenvolvimento deste projeto, foram explorados conceitos fundamentais de desenvolvimento web:
- -Estruturação de páginas com HTML5
+---
+
+## 🧠 Aprendizados
+
+Durante o desenvolvimento deste projeto, foram explorados conceitos fundamentais de desenvolvimento web:
+
+- Estruturação de páginas com HTML5
 - Estilização com CSS3
 - Formulários e envio de dados (GET)
 - Parâmetros de URL
@@ -135,13 +159,26 @@ Aprendizados
 - Consistência visual
 - Versionamento com Git e GitHub
 
-Feito por Luuuu1208
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+---
 
-Créditos
-- Curso: CS50's Web Programming with Python and JavaScript
-- Instituição: Harvard University
-- Inspiração: Google Search
+## 👩‍💻 Autora
+
+Feito por **Luuuu1208**
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luuuu1208)
+
+---
+
+## 📚 Créditos
+
+- **Curso:** [CS50's Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/)
+- **Instituição:** Harvard University
+- **Inspiração:** Google Search
+
+---
+
+## 📝 Licença
 
 Este projeto foi desenvolvido para fins educacionais como parte do curso CS50W.
+
 O Google é uma marca registrada da Google LLC.
