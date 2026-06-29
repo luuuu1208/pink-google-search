@@ -30,7 +30,7 @@ A versão disponível neste repositório apresenta um **tema rosa personalizado*
 
 ---
 
-## 🎯 Funcionalidades
+##  Funcionalidades
 
 | Funcionalidade | Descrição |
 |----------------|-----------|
@@ -41,7 +41,7 @@ A versão disponível neste repositório apresenta um **tema rosa personalizado*
 
 ---
 
-## 📱 Páginas do Projeto
+##  Páginas do Projeto
 
 O site é composto por **três páginas**, conforme especificado no projeto:
 
@@ -58,7 +58,7 @@ O site é composto por **três páginas**, conforme especificado no projeto:
 
 ---
 
-## 🎨 Paleta de Cores
+##  Paleta de Cores
 
 O tema rosa foi desenvolvido com a seguinte paleta:
 
@@ -73,7 +73,7 @@ Rosa Fundo:       #f7d6ef  /* Background dos botões em hover */
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 | Tecnologia | Uso |
 |------------|-----|
@@ -84,7 +84,7 @@ Rosa Fundo:       #f7d6ef  /* Background dos botões em hover */
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 pink-google-search/
@@ -99,7 +99,7 @@ pink-google-search/
 
 ---
 
-## 🚀 Acesse o Projeto
+##  Acesse o Projeto
 
 O projeto está disponível publicamente em:
 
@@ -123,7 +123,7 @@ O projeto está disponível publicamente em:
 
 ---
 
-## 🔍 Detalhes Técnicos
+##  Detalhes Técnicos
 
 ### Pesquisa de Imagens
 ```html
@@ -147,7 +147,7 @@ O parâmetro `btnI=1` faz o Google redirecionar diretamente ao primeiro resultad
 
 ---
 
-## 🧠 Aprendizados
+##  Aprendizados
 
 Durante o desenvolvimento deste projeto, foram explorados conceitos fundamentais de desenvolvimento web:
 
@@ -161,7 +161,7 @@ Durante o desenvolvimento deste projeto, foram explorados conceitos fundamentais
 
 ---
 
-## 👩‍💻 Autora
+##  Autora
 
 Feito por **Luuuu1208**
 
@@ -169,7 +169,7 @@ Feito por **Luuuu1208**
 
 ---
 
-## 📚 Créditos
+##  Créditos
 
 - **Curso:** [CS50's Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/)
 - **Instituição:** Harvard University
@@ -177,7 +177,7 @@ Feito por **Luuuu1208**
 
 ---
 
-## 📝 Licença
+##  Licença
 
 Este projeto foi desenvolvido para fins educacionais como parte do curso CS50W.
 
