@@ -10,7 +10,7 @@
 
 ---
 
-## 📚 Sobre o Projeto
+##  Sobre o Projeto
 
 Este projeto foi desenvolvido como parte do **Projeto 0** do curso **CS50’s Web Programming with Python and JavaScript** (CS50W), oferecido por Harvard.
 
@@ -25,8 +25,6 @@ O objetivo foi recriar as funcionalidades básicas da página de pesquisa do Goo
 ### 🌸 Tema Rosa
 
 A versão disponível neste repositório apresenta um **tema rosa personalizado**, escolhido para explorar customização de CSS e identidade visual. O projeto também atende a todos os requisitos funcionais do curso.
-
-> **Nota:** Para fins de entrega acadêmica, uma versão com a estética padrão do Google (botão "Advanced Search" azul) foi desenvolvida separadamente.
 
 ---
 
