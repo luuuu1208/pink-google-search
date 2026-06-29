@@ -101,7 +101,7 @@ pink-google-search/
 
 O projeto está disponível publicamente em:
 
-[[https://luuuu1208.github.io/pink-google-search/](https://luuuu1208.github.io/pink-google-search/)](https://luuuu1208.github.io/pink-google-search/index.html)
+https://luuuu1208.github.io/pink-google-search/index.html
 
 ---
 
