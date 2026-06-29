@@ -72,12 +72,14 @@ Rosa Escuro:      #8a055a  /* Labels */
 Rosa Destaque:    #ed8dcd  /* Hover dos botões */
 Rosa Fundo:       #f7d6ef  /* Background dos botões em hover */
 
-🛠 Tecnologias Utilizadas
-Tecnologia	    Uso
-HTML5	          Estrutura semântica das páginas
-CSS3	          Estilização, layout e design responsivo
-Flexbox	        Alinhamento e distribuição de elementos
-GitHub Pages	  Hospedagem gratuita do projeto
+## 🛠 Tecnologias Utilizadas
+
+| Tecnologia | Uso |
+|------------|-----|
+| HTML5 | Estrutura semântica das páginas |
+| CSS3 | Estilização, layout e design responsivo |
+| Flexbox | Alinhamento e distribuição de elementos |
+| GitHub Pages | Hospedagem gratuita do projeto |
 
 Estrutura do Projeto
 pink-google-search/
